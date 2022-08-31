@@ -14,11 +14,14 @@
         android:theme="@style/Theme.ChapterTiga"
         tools:targetApi="31">
         <activity
+            android:name=".ActivityNilaiAkhirMahasiswa"
+            android:exported="false" />
+        <activity
             android:name=".AplikasiBmiActivity"
             android:exported="false" />
         <activity
             android:name=".PenjumlahanActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
