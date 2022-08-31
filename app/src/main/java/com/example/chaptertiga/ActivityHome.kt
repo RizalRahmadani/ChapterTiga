@@ -19,6 +19,7 @@ class ActivityHome : AppCompatActivity() {
         }
         btnPenjumlahan.setOnClickListener {
             var pindah = Intent(this ,PenjumlahanActivity::class.java)
+            startActivity(pindah)
         }
     }
 }
