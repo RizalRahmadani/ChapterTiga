@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.chaptertiga">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
 
     <application
         android:allowBackup="true"
@@ -14,7 +16,27 @@
         android:theme="@style/Theme.ChapterTiga"
         tools:targetApi="31">
         <activity
-            android:name=".ActivityHome"
+            android:name=".topicdua.ParcelableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.SerialezableActivity"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.WebViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.ImplicitActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".topicdua.EksplisIntent"
+            android:exported="true" />
+        <activity
+            android:name=".topicdua.IntentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".tugastopicsatu.ActivityHome"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,18 +45,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ActivityNilaiAkhirMahasiswa"
+            android:name=".tugastopicsatu.ActivityNilaiAkhirMahasiswa"
             android:exported="false" />
         <activity
-            android:name=".AplikasiBmiActivity"
+            android:name=".tugastopicsatu.AplikasiBmiActivity"
             android:exported="false" />
         <activity
-            android:name=".PenjumlahanActivity"
+            android:name=".tugastopicsatu.PenjumlahanActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
     </application>
 
 </manifest>

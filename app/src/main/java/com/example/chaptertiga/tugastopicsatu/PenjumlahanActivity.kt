@@ -1,10 +1,11 @@
-package com.example.chaptertiga
+package com.example.chaptertiga.tugastopicsatu
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import com.example.chaptertiga.R
 
 class PenjumlahanActivity : AppCompatActivity() {
 

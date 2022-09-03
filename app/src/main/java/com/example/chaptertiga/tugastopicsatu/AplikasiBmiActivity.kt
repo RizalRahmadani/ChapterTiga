@@ -1,7 +1,8 @@
-package com.example.chaptertiga
+package com.example.chaptertiga.tugastopicsatu
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.chaptertiga.R
 import kotlinx.android.synthetic.main.activity_aplikasi_bmi.*
 
 class AplikasiBmiActivity : AppCompatActivity() {

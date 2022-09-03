@@ -4,34 +4,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".tugastopicsatu.ActivityHome">
+    tools:context=".topicdua.ImplicitActivity">
 
     <Button
-        android:id="@+id/btnKalkulator"
+        android:id="@+id/btnGallery"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="Kalkulator BMI"
+        android:text="Gallery"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/btnNilaiAkhirMahasiswa"
+        android:id="@+id/btnKamera"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Menghitung Nilai\nAkhir Mahasiswa"
+        android:text="Kamera"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnKalkulator" />
+        app:layout_constraintTop_toBottomOf="@+id/btnGallery" />
 
     <Button
-        android:id="@+id/btnPenjumlahan"
+        android:id="@+id/btnWeb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Penjumlahan"
+        android:text="WEB"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnNilaiAkhirMahasiswa" />
+        app:layout_constraintTop_toBottomOf="@+id/btnKamera" />
 </androidx.constraintlayout.widget.ConstraintLayout>
