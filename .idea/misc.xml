@@ -3,17 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1415" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_aplikasi_bmi.xml" value="0.22447916666666667" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_eksplis_intent.xml" value="0.21041666666666667" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_gojek.xml" value="0.22447916666666667" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_implicit.xml" value="0.25" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_intent.xml" value="0.22447916666666667" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_main_fragment.xml" value="0.22447916666666667" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_nilai_akhir_mahasiswa.xml" value="0.1" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_parcelable.xml" value="0.21041666666666667" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_serialezable.xml" value="0.21041666666666667" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/activity_web_view.xml" value="0.1841880341880342" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/fragment_chat.xml" value="0.22447916666666667" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/fragment_dua.xml" value="0.22447916666666667" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/fragment_profile.xml" value="0.22447916666666667" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/fragment_promo.xml" value="0.22447916666666667" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/fragment_satu.xml" value="0.22447916666666667" />
         <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/layout/penjumlahan.xml" value="0.17962962962962964" />
+        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/Android Studio/ChapterTiga/app/src/main/res/menu/menu_navigation.xml" value="0.2234375" />
       </map>
     </option>
   </component>
