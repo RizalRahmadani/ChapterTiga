@@ -13,8 +13,8 @@ class IntentActivity : AppCompatActivity() {
         setContentView(R.layout.activity_intent)
 
         intentData()
-        passingDataSerializable()
-        intenBundle()
+//        passingDataSerializable()
+//        intenBundle()
 
 
     }
@@ -26,8 +26,8 @@ class IntentActivity : AppCompatActivity() {
 
 //          key - value
                     var inten = Intent (this, EksplisIntent::class.java)
-                    inten.putExtra("angkasatu", dataSatu)
-                    inten.putExtra("angkadua", dataDua)
+                    inten.putExtra("angka1", dataSatu)
+                    inten.putExtra("angka2", dataDua)
                     startActivity(inten)
 
                 }

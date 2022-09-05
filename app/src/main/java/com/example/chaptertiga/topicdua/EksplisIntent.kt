@@ -17,8 +17,8 @@ class EksplisIntent : AppCompatActivity() {
 
     //ambil data menggunakan intent
     fun ambilData(){
-        var datasatu = intent.getStringExtra("angkasatu")
-        var dataDua = intent.getStringExtra("angkadua")
+        var datasatu = intent.getStringExtra("angka1")
+        var dataDua = intent.getStringExtra("angka2")
         textAngkaSatu.text = datasatu
         textAngkaDua.text = dataDua
         textHasil.text = datasatu + dataDua
